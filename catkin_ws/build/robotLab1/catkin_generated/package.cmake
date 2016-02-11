@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "robotLab1")
+set(robotLab1_MAINTAINER "viki <viki@todo.todo>")
+set(robotLab1_DEPRECATED "")
+set(robotLab1_VERSION "0.0.0")
+set(robotLab1_BUILD_DEPENDS "message_generation")
+set(robotLab1_RUN_DEPENDS "message_runtime")
+set(robotLab1_BUILDTOOL_DEPENDS "catkin")

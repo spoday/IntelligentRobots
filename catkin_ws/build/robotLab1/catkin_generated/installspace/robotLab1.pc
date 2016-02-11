@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_ws/install
+
+Name: robotLab1
+Description: Description of robotLab1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/catkin_ws/install/lib 
+Requires: 
